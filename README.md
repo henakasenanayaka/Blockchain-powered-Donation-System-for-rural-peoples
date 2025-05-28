@@ -1,4 +1,4 @@
-# Blpckchain-powered-Donation-System-for-rural-peoples
+# Blockchain-powered-Donation-System-for-rural-peoples
 
 Step 1 --> Download the zip file.
 Step 2 --> Extract the zip file.
